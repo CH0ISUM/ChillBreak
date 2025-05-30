@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30012.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E53D8E7B-3B8D-4D3C-8B6D-3D8B8D3C8B6D}") = "ChillBreak", "ChillBreak\ChillBreak.vcxproj", "{A1B2C3D4-E5F6-7A8B-9A0B-C1D2E3F4A5B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B2C3D4-E5F6-7A8B-9A0B-C1D2E3F4A5B6}.Debug|x64.ActiveCfg = Debug|x64
+		{A1B2C3D4-E5F6-7A8B-9A0B-C1D2E3F4A5B6}.Debug|x64.Build.0 = Debug|x64
+		{A1B2C3D4-E5F6-7A8B-9A0B-C1D2E3F4A5B6}.Release|x64.ActiveCfg = Release|x64
+		{A1B2C3D4-E5F6-7A8B-9A0B-C1D2E3F4A5B6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
